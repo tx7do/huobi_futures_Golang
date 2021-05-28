@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/tx7do/huobi_futures_Golang/sdk/log"
+	"github.com/tx7do/huobi_futures_golang/sdk/log"
 )
 
 func HttpGet(url string) (string, error) {

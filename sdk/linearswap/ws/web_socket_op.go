@@ -8,10 +8,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/tx7do/huobi_futures_Golang/sdk/linearswap"
-	"github.com/tx7do/huobi_futures_Golang/sdk/log"
-	"github.com/tx7do/huobi_futures_Golang/sdk/reqbuilder"
-	"github.com/tx7do/huobi_futures_Golang/sdk/wsbase"
+	"github.com/tx7do/huobi_futures_golang/sdk/linearswap"
+	"github.com/tx7do/huobi_futures_golang/sdk/log"
+	"github.com/tx7do/huobi_futures_golang/sdk/reqbuilder"
+	"github.com/tx7do/huobi_futures_golang/sdk/wsbase"
 
 	"github.com/gorilla/websocket"
 )

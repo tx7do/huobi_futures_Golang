@@ -4,10 +4,10 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/tx7do/huobi_futures_Golang/sdk/linearswap"
-	"github.com/tx7do/huobi_futures_Golang/sdk/linearswap/restful/response/transfer"
-	"github.com/tx7do/huobi_futures_Golang/sdk/log"
-	"github.com/tx7do/huobi_futures_Golang/sdk/reqbuilder"
+	"github.com/tx7do/huobi_futures_golang/sdk/linearswap"
+	"github.com/tx7do/huobi_futures_golang/sdk/linearswap/restful/response/transfer"
+	"github.com/tx7do/huobi_futures_golang/sdk/log"
+	"github.com/tx7do/huobi_futures_golang/sdk/reqbuilder"
 )
 
 type TransferClient struct {

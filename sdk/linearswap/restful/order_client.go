@@ -4,11 +4,11 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/tx7do/huobi_futures_Golang/sdk/linearswap"
-	requestorder "github.com/tx7do/huobi_futures_Golang/sdk/linearswap/restful/request/order"
-	responseorder "github.com/tx7do/huobi_futures_Golang/sdk/linearswap/restful/response/order"
-	"github.com/tx7do/huobi_futures_Golang/sdk/log"
-	"github.com/tx7do/huobi_futures_Golang/sdk/reqbuilder"
+	"github.com/tx7do/huobi_futures_golang/sdk/linearswap"
+	requestorder "github.com/tx7do/huobi_futures_golang/sdk/linearswap/restful/request/order"
+	responseorder "github.com/tx7do/huobi_futures_golang/sdk/linearswap/restful/response/order"
+	"github.com/tx7do/huobi_futures_golang/sdk/log"
+	"github.com/tx7do/huobi_futures_golang/sdk/reqbuilder"
 )
 
 type OrderClient struct {

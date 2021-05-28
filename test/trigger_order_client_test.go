@@ -3,9 +3,9 @@ package test
 import (
 	"testing"
 
-	"github.com/tx7do/huobi_futures_Golang/sdk/linearswap/restful"
-	requesttiggerorder "github.com/tx7do/huobi_futures_Golang/sdk/linearswap/restful/request/triggerorder"
-	responsetriggerorder "github.com/tx7do/huobi_futures_Golang/sdk/linearswap/restful/response/triggerorder"
+	"github.com/tx7do/huobi_futures_golang/sdk/linearswap/restful"
+	requesttiggerorder "github.com/tx7do/huobi_futures_golang/sdk/linearswap/restful/request/triggerorder"
+	responsetriggerorder "github.com/tx7do/huobi_futures_golang/sdk/linearswap/restful/response/triggerorder"
 )
 
 var todClient restful.TriggerOrderClient

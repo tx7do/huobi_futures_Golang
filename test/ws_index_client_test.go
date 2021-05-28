@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/tx7do/huobi_futures_Golang/sdk/linearswap/ws"
-	"github.com/tx7do/huobi_futures_Golang/sdk/linearswap/ws/response/index"
+	"github.com/tx7do/huobi_futures_golang/sdk/linearswap/ws"
+	"github.com/tx7do/huobi_futures_golang/sdk/linearswap/ws/response/index"
 )
 
 var wsixClient *ws.WSIndexClient

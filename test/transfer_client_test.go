@@ -3,8 +3,8 @@ package test
 import (
 	"testing"
 
-	"github.com/tx7do/huobi_futures_Golang/sdk/linearswap/restful"
-	"github.com/tx7do/huobi_futures_Golang/sdk/linearswap/restful/response/transfer"
+	"github.com/tx7do/huobi_futures_golang/sdk/linearswap/restful"
+	"github.com/tx7do/huobi_futures_golang/sdk/linearswap/restful/response/transfer"
 )
 
 var tfClient restful.TransferClient

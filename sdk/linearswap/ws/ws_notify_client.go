@@ -6,9 +6,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/tx7do/huobi_futures_Golang/sdk/linearswap"
-	"github.com/tx7do/huobi_futures_Golang/sdk/linearswap/ws/response/notify"
-	"github.com/tx7do/huobi_futures_Golang/sdk/wsbase"
+	"github.com/tx7do/huobi_futures_golang/sdk/linearswap"
+	"github.com/tx7do/huobi_futures_golang/sdk/linearswap/ws/response/notify"
+	"github.com/tx7do/huobi_futures_golang/sdk/wsbase"
 )
 
 type WSNotifyClient struct {
